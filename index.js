@@ -1,5 +1,5 @@
-let who = ['mi perro', 'Mi polola', 'el zeus', 'Mi mama'];
-let action = ['comio', 'pirde', 'cruzo', 'rompio'];
+let who = ['mi perro', 'Mi polola', 'el zeus', 'gorda'];
+let action = ['comio', 'perdio', 'cruzo', 'rompio'];
 let what = ['mi tarea', 'las llaves', 'la calle'];
 let when = ['antes de clases', 'todo el tiempo', 'solo', 'durante el almuerzo', 'despues del cine'];
 
